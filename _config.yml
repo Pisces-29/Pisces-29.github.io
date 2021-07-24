@@ -15,21 +15,9 @@ lin:
 
   # generate social links
   social_links:
-    twitter: jekyllrb
     github: Pisces-29
-    medium:  jekyll
-    rss: rss
-    dribbble: jekyll
     facebook: jekyll
-    flickr:   jekyll
     instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
 
 theme: lin
 
