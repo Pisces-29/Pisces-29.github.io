@@ -16,7 +16,7 @@ lin:
   # generate social links
   social_links:
     twitter: jekyllrb
-    github:  https://github.com/Pisces-29
+    github: github.com/Pisces-29
     medium:  jekyll
     rss: rss
     dribbble: jekyll
