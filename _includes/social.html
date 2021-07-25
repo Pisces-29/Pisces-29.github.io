@@ -18,4 +18,10 @@
     <span class="lin-icon-instagram"></span>
   </a>
   {%- endif -%}
+  
+  {%- if social.weibo -%}
+  <a href="https://www.weibo.com/{{ social.weibo | cgi_escape | escape }}" rel="nofollow">
+    <span class="lin-icon-weibo"></span>
+  </a>
+  {%- endif -%}
 </span>
